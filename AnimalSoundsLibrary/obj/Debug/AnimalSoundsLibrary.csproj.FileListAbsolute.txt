@@ -1,0 +1,6 @@
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\bin\Debug\AnimalSoundsLibrary.dll
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\bin\Debug\AnimalSoundsLibrary.pdb
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\obj\Debug\AnimalSoundsLibrary.csprojResolveAssemblyReference.cache
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\obj\Debug\AnimalSoundsLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\obj\Debug\AnimalSoundsLibrary.dll
+C:\repos\C#\AnimalSoundsSolution\AnimalSoundsLibrary\obj\Debug\AnimalSoundsLibrary.pdb
